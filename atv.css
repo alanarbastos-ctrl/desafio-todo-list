@@ -17,8 +17,12 @@
   }
   
  #box{
-    width: 600;
-    height: 800;
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(72, 75, 74, 0.20); /* Sombra levemente esverdeada */
+    width: 100%;
+    max-width: 400px;
  }
   .container {
     background-color: #ffffff;
